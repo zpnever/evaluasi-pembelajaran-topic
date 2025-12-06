@@ -1,0 +1,1 @@
+{"version":3,"file":"topicModel.d.ts","sourceRoot":"","sources":["../../src/models/topicModel.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,aAAa;IAC7B,SAAS,EAAE;QACV,IAAI,EAAE,MAAM,CAAC;QACb,GAAG,EAAE,MAAM,CAAC;KACZ,CAAC;IACF,KAAK,EAAE,MAAM,CAAC;CACd"}
